@@ -12,6 +12,15 @@ Wind Intruments:
 
 other :
 
+
+| Name | Category | Tested |
+| --- | --- | --- |
+| Alto Trombone | Wind | Yes | 
+| Book Of Boba Fett Catina Guitar | String | | 
+| Book Of Boba Fett Catina Fretless | String | |
+| Pan Flute | Wind | Yes |  
+|  |  | | 
+
 ## String Instruments
 
 ### Book Of Boba Fett Catina Guitar
