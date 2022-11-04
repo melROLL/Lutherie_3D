@@ -1,6 +1,6 @@
 # Lutherie_3D
 
-## List
+## List :
 
 String Intruments:
 * Book Of Boba Fett Catina Guitar
@@ -14,18 +14,18 @@ Wind Intruments:
 
 ### Book Of Boba Fett Catina Guitar
 <p align="center">
-  <img src="media/Book_Of_Boba_Fett_Catina_Guitar.jpg">
+  <img src="Media/Book_Of_Boba_Fett_Catina_Guitar.jpg">
 </p>
 
 ### Electric semi acoustic nylon mandoline
 <p align="center">
-  <img src="media/Electric_semi_acoustic_nylon_mandoline.jpg">
+  <img src="Media/Electric_semi_acoustic_nylon_mandoline.jpg">
 </p>
 
 
 ### Multi Intrument
 <p align="center">
-  <img src="media/Multi_Intrument.jpg">
+  <img src="Media/Multi_Intrument.jpg">
 </p>
 
 
@@ -33,5 +33,5 @@ Wind Intruments:
  
 ### Pan Flute
 <p align="center">
-  <img src="media/Pan_Flute.jpg">
+  <img src="Media/Pan_Flute.jpg">
 </p>
