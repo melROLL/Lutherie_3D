@@ -10,6 +10,8 @@ String Intruments:
 Wind Intruments:
 * Pan Flute
 
+other :
+
 ## String Instruments
 
 ### Book Of Boba Fett Catina Guitar
@@ -35,3 +37,5 @@ Wind Intruments:
 <p align="center">
   <img src="Media/Pan_Flute.jpg">
 </p>
+
+## Other
