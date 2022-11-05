@@ -3,31 +3,40 @@
 ## List :
 
 String Intruments:
+* Book Of Boba Fett Catina Fretless Guitar
 * Book Of Boba Fett Catina Guitar
-* Book Of Boba Fett Catina Fretless 
 * Electric semi acoustic nylon mandoline
-* Multi Intrument
+* Saz 
+
 
 Wind Intruments:
 * Alto Trombone
+* KittyBone
 * Pan Flute
 
-other :
-
+Other :
+* Multi Intrument
 
 | Name | Category | Tested | Instructions |
 | --- | --- | --- | --- |
 | Alto Trombone | Wind | Yes |  | 
+| Book Of Boba Fett Catina Fretless Guitar| String | | | 
 | Book Of Boba Fett Catina Guitar | String | |  | 
-| Book Of Boba Fett Catina Fretless | String | | | 
 | Electric semi acoustic nylon mandoline | String | | yes | 
 |  |  | |  | 
-| Kitty Bone | Wind | yes |  | 
-|  |  | |  | 
+| Kitty Bone | Wind | Yes |  | 
+| Multi Intrument | other | |  | 
 | Pan Flute | Wind | Yes |   | 
+|  |  | |  | 
+| Saz | String | Yes |  | 
 |  |  | |  | 
 
 ## String Instruments
+
+### Book Of Boba Fett Catina Fretless Guitar
+<p align="center">
+  <img src="Media/Book_Of_Boba_Fett_Catina_Fretless.jpg">
+</p>
 
 ### Book Of Boba Fett Catina Guitar
 <p align="center">
@@ -39,11 +48,6 @@ other :
   <img src="Media/Electric_semi_acoustic_nylon_mandoline.jpg">
 </p>
 
-
-### Multi Intrument
-<p align="center">
-  <img src="Media/Multi_Intrument.jpg">
-</p>
 
 
 ## Wind Instruments
@@ -59,3 +63,9 @@ other :
 </p>
 
 ## Other
+
+### Multi Intrument
+
+<p align="center">
+  <img src="Media/Multi_Intrument.jpg">
+</p>
