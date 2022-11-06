@@ -157,6 +157,10 @@ This is a zurna type intrument in E that you use with a duduk mouthpiece
 
 ## Other
 
+### Accesories For String Instruments
+
+### Fred The Eurorack Module
+
 ### Multi Intrument
 <p align="center">
   <img src="Media/Multi_Intrument.jpg">
