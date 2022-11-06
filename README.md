@@ -20,7 +20,7 @@
 | Guqin | String | |  | 
 | Kitty Bone | Wind | Yes |  | 
 | Kokyu | String | Yes |  | 
-| Multi Intrument | other | |  | 
+| Multi Intrument | other | | Yes | 
 | Oud | String | Yes |  | 
 | Pan Flute | Wind | Yes |   | 
 | Saz | String | Yes |  | 
