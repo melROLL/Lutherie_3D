@@ -132,15 +132,25 @@ the tail is optional as it get in your face
 you will need to glue the bell part 1, the bell part 2 and the nose and whiskers in order to assembeled them
 the UWU mouthpiece icluded works but you will get a better sound with a trumpet or trombone mouthpiece.
 
-
 ### Pan Flute
 <p align="center">
   <img src="Media/Pan_Flute.jpg">
 </p>
 This is a pan flute in C
 
+### Serpent
+This is a straight version of a bass serpent however in soprano size.
+The model had been cut to be printed in smaller part.
+Tt shoud work with any standart trombone mouthpiece.
+
 ### Shamizen 
 This is a japanese traditional instrument
+
+### SquareBone
+This is a picolo trombone with a squares, it is dimentioned to work with any standartd mouthpiece
+
+### Trisax
+This is a mini saxophone in B.
 
 ###Zurna Duduk
 This is a zurna type intrument in E that you use with a duduk mouthpiece
@@ -148,7 +158,6 @@ This is a zurna type intrument in E that you use with a duduk mouthpiece
 ## Other
 
 ### Multi Intrument
-
 <p align="center">
   <img src="Media/Multi_Intrument.jpg">
 </p>
