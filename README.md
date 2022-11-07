@@ -42,11 +42,13 @@ To assemble it you need a 6mm steel rod
 <p align="center">
   <img src="Media/Book_Of_Boba_Fett_Catina_Fretless.jpg">
 </p>
+You need two 12mm metal rod to assembled it
 
 ### Book Of Boba Fett Catina Guitar
 <p align="center">
   <img src="Media/Book_Of_Boba_Fett_Catina_Guitar.jpg">
 </p>
+You need a 12mm metal rod to assembled it
 
 ### Double Neck Ukulele Madoline 
 <p align="center">
@@ -165,3 +167,4 @@ This is a zurna type intrument in E that you use with a duduk mouthpiece
 <p align="center">
   <img src="Media/Multi_Intrument.jpg">
 </p>
+This is a Pan Flute, a Ukulele, a Trumpet, an Harp, a Trombone and a Kazzo .
