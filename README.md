@@ -20,7 +20,9 @@
 | Guqin | String | |  | 
 | Kitty Bone | Wind | :white_check_mark: |  | 
 | Kokyu | String | :white_check_mark: |  | 
+| Micro Trumpet | Wind |  |  |
 | Multi Intrument | other | | :white_check_mark: | 
+| Nano Trumpet | Wind |  |  |
 | Oud | String | :white_check_mark: |  | 
 | Pan Flute | Wind | :white_check_mark: |   | 
 | Saz | String | :white_check_mark: |  | 
@@ -133,6 +135,18 @@ This is a picollo trombone but better because Cats
 the tail is optional as it get in your face
 you will need to glue the bell part 1, the bell part 2 and the nose and whiskers in order to assembeled them
 the UWU mouthpiece icluded works but you will get a better sound with a trumpet or trombone mouthpiece.
+
+### Micro Trumpet
+<p align="center">
+  <img src="Media/Micro_Trumpet.jpg">
+</p>
+
+
+### Nano Trumpet
+<p align="center">
+  <img src="Media/Nano_Trumpet.jpg">
+</p>
+
 
 ### Pan Flute
 <p align="center">
